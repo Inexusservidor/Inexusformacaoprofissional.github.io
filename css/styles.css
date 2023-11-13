@@ -342,9 +342,11 @@ figure {
 }
 
 img {
+  position: relative;
+  top: -13rem;
   vertical-align: middle;
   width: 34rem;
-  height: 22rem;
+  height: 18rem;  
 }
 
 .img2 {
@@ -12756,10 +12758,10 @@ p {
 
 header.masthead {
   padding-top: 10.5rem;
-  padding-bottom: 6rem;
+  padding-bottom: 6rem;   
   text-align: center;
   color: #fff;
-  background-image: url("https://i.postimg.cc/0yzZwB4D/78602696037.png");
+  background-image: url("https://i.postimg.cc/sXGPsrWg/foto-escolhida.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
